@@ -1,0 +1,4 @@
+git revert <commit id>
+git revert HEAD
+git revert HEAD~2
+
