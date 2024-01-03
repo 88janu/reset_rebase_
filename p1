@@ -1,0 +1,4 @@
+git reset --mixied
+git reset --soft
+git reset --hard <commit id>
+
